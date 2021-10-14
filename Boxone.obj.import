@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Boxone.obj-c39a1da357d74776592ba67989460724.mesh"
+
+[deps]
+
+files=[ "res://.import/Boxone.obj-c39a1da357d74776592ba67989460724.mesh" ]
+
+source_file="res://Boxone.obj"
+dest_files=[ "res://.import/Boxone.obj-c39a1da357d74776592ba67989460724.mesh", "res://.import/Boxone.obj-c39a1da357d74776592ba67989460724.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

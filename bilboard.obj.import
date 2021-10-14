@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/bilboard.obj-058a6739995ab959fc0d08e7e2ef4ba9.mesh"
+
+[deps]
+
+files=[ "res://.import/bilboard.obj-058a6739995ab959fc0d08e7e2ef4ba9.mesh" ]
+
+source_file="res://bilboard.obj"
+dest_files=[ "res://.import/bilboard.obj-058a6739995ab959fc0d08e7e2ef4ba9.mesh", "res://.import/bilboard.obj-058a6739995ab959fc0d08e7e2ef4ba9.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

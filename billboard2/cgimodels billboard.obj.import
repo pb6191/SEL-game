@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/cgimodels billboard.obj-43d7ea538b42de760423a4e9d7f09420.mesh"
+
+[deps]
+
+files=[ "res://.import/cgimodels billboard.obj-43d7ea538b42de760423a4e9d7f09420.mesh" ]
+
+source_file="res://billboard2/cgimodels billboard.obj"
+dest_files=[ "res://.import/cgimodels billboard.obj-43d7ea538b42de760423a4e9d7f09420.mesh", "res://.import/cgimodels billboard.obj-43d7ea538b42de760423a4e9d7f09420.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

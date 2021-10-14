@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Hut4sketchfab.obj-c466e0f390334408cafef477bda1c51d.mesh"
+
+[deps]
+
+files=[ "res://.import/Hut4sketchfab.obj-c466e0f390334408cafef477bda1c51d.mesh" ]
+
+source_file="res://Hut4sketchfab.obj"
+dest_files=[ "res://.import/Hut4sketchfab.obj-c466e0f390334408cafef477bda1c51d.mesh", "res://.import/Hut4sketchfab.obj-c466e0f390334408cafef477bda1c51d.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

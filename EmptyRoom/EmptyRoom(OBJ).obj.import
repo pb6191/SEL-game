@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/EmptyRoom(OBJ).obj-a4418326ebeac9e70ba963079396051d.mesh"
+
+[deps]
+
+files=[ "res://.import/EmptyRoom(OBJ).obj-a4418326ebeac9e70ba963079396051d.mesh" ]
+
+source_file="res://EmptyRoom/EmptyRoom(OBJ).obj"
+dest_files=[ "res://.import/EmptyRoom(OBJ).obj-a4418326ebeac9e70ba963079396051d.mesh", "res://.import/EmptyRoom(OBJ).obj-a4418326ebeac9e70ba963079396051d.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

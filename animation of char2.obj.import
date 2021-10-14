@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/animation of char2.obj-309b0b208822280437668e9d95ef2ecb.mesh"
+
+[deps]
+
+files=[ "res://.import/animation of char2.obj-309b0b208822280437668e9d95ef2ecb.mesh" ]
+
+source_file="res://animation of char2.obj"
+dest_files=[ "res://.import/animation of char2.obj-309b0b208822280437668e9d95ef2ecb.mesh", "res://.import/animation of char2.obj-309b0b208822280437668e9d95ef2ecb.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true
